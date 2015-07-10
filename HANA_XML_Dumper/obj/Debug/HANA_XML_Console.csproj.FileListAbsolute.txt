@@ -1,0 +1,6 @@
+c:\users\igor.gorskyi\documents\visual studio 2013\Projects\HANA_XML_Console\HANA_XML_Console\bin\Debug\HANA_XML_Console.exe.config
+c:\users\igor.gorskyi\documents\visual studio 2013\Projects\HANA_XML_Console\HANA_XML_Console\bin\Debug\HANA_XML_Console.exe
+c:\users\igor.gorskyi\documents\visual studio 2013\Projects\HANA_XML_Console\HANA_XML_Console\bin\Debug\HANA_XML_Console.pdb
+c:\users\igor.gorskyi\documents\visual studio 2013\Projects\HANA_XML_Console\HANA_XML_Console\obj\Debug\HANA_XML_Console.csprojResolveAssemblyReference.cache
+c:\users\igor.gorskyi\documents\visual studio 2013\Projects\HANA_XML_Console\HANA_XML_Console\obj\Debug\HANA_XML_Console.exe
+c:\users\igor.gorskyi\documents\visual studio 2013\Projects\HANA_XML_Console\HANA_XML_Console\obj\Debug\HANA_XML_Console.pdb
